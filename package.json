@@ -1,0 +1,23 @@
+{
+  "name": "freecodecamp-be-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawank88-web/FreeCodeCamp-BE-course.git"
+  },
+  "keywords": [
+    "Node",
+    "Application"
+  ],
+  "author": "Pawan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawank88-web/FreeCodeCamp-BE-course/issues"
+  },
+  "homepage": "https://github.com/Pawank88-web/FreeCodeCamp-BE-course#readme"
+}
